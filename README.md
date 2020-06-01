@@ -1,6 +1,7 @@
 # DRoT-1-UNiTED
 Preliminary Version of Linear ADMM Model For DCOPF 
 In this reposnitory, you can find the DCOPF model in both centralized (GAMS file) and decentralized (MATLAB files). 
+
 The corresponding paper have been presented in SEST2019 and you are invited to cite this paper as follow:
 
 
@@ -8,5 +9,7 @@ M. Javadi, A. E. Nezhad, M. Gough, M. Lotfi and J. P. S. Catalão, "Implementati
 
 
 The Centralized DCOPF for PJM Network: You can run the PJM_DCOPF.gms
-The Decentralized model for the same with the same results. You can run the DCOPF_LMP.m in the folder DROT1_V0.rar
+
+
+The Decentralized model for the same case study with the same results. You can run the DCOPF_LMP.m in the folder DROT1_V0.rar
 The linear programming model for ADMM is the LP_ADMM.m in the same folder (DROT1_V0.rar)
