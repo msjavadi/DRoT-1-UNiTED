@@ -1,5 +1,5 @@
 # DRoT-1-UNiTED
-Preliminary Version of Linear ADMM Model For DCOPF.
+Final Version of Linear ADMM Model For DCOPF.
 
 In this repository, you can find the DCOPF model in both centralized (GAMS file) and decentralized (MATLAB files). 
 
